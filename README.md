@@ -17,6 +17,10 @@ el navegador de forma automatica y directa
 ## Lenguajes que se usaron  🔧
 Se uso el lenguaje de JavaScript y HTML, este proyecto se realizo en Visual Studio Code 
 
+javascript
+JavaScript es un lenguaje de programación que se utiliza principalmente del lado del cliente, ya que permite crear la interfaz de usuario de sitios web, aunque también se puede usar para realizar tareas del lado del servidor, a través de Node.js.
+
+
 
 ## Base de datos ⚙️
 
@@ -24,6 +28,13 @@ Se utilizo Dexie.js es una libreria sencilla y concisa para trabajar con Indexed
 ya que gracias a ella podemos almacenar datos de manera persistente en el navegador sin tener que utilizar 
 otra base de datos adicional 
 
+## Que es la libreria Dixie.js
+
+Dexie.js es una biblioteca simple y concisa para trabajar con la "API de base de datos indexada" o IndexedDB.
+
+IndexedDB es una forma de almacenar datos de forma persistente en el navegador. Dado que permite la creación de aplicaciones web con capacidades de consulta mejoradas, estas pueden ejecutarse tanto en línea como fuera de línea. IndexedDB es útil para aplicaciones que almacenan una gran cantidad de datos y aplicaciones que no necesitan una conexión permanente a Internet para funcionar.
+
+También puede ser muy útil para guardar datos de forma local en una aplicación híbrida, por ejemplo.
 
 ## Autores ✒️
 
